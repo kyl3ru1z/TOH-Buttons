@@ -4,3 +4,6 @@ Created Towers Of Hanoi using drag and drop. Towers of Hanoi consist of three to
 # What I Learned 
 - Implemented MVC Design Model
 - Utilizing Swift Core Graphic Framework 
+
+# Demo
+<img src="gifs/toh_buttons.gif" height="500">
